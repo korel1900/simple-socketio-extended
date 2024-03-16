@@ -1,6 +1,6 @@
 {
   "name": "simple-socketio-extended",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple socket.io extended",
   "main": "main.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/korel1900/simple-socketio-extended.git"
   },
-  "keywords": [ 
+  "keywords": [
     "socket.io",
     "extended",
     "interface",
@@ -27,5 +27,10 @@
   },
   "homepage": "https://github.com/korel1900/simple-socketio-extended#readme",
   "dependencies": {
+    "@harmansate/simple-sky": "^1.0.2",
+    "simple-jquery-validate": "^1.0.1",
+    "simple-loading-wave": "^0.0.2",
+    "simple-oprations-maths": "^0.0.2",
+    "socket.io": "^4.7.5"
   }
 }
